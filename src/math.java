@@ -18,7 +18,7 @@ public class math {
         if (oper == '+') {
             System.out.println(num1 + num2);
         } else if (oper == '-') {
-
+            System.out.println(num1 - num2);
         } else if (oper == 'x') {
 
         } else if (oper == '/') {
