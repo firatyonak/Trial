@@ -22,7 +22,7 @@ public class math {
         } else if (oper == 'x') {
             System.out.println(num1 * num2);
         } else if (oper == '/') {
-
+            System.out.println(num1 * num2);
         } else {
             
         }
