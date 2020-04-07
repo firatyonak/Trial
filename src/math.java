@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class math {
     public static void main(String[] args) {
+        System.out.println("Hello");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter an Operator: ");
         String in = sc.next();
@@ -24,7 +25,7 @@ public class math {
         } else if (oper == '/') {
             System.out.println(num1 * num2);
         } else {
-            
+            System.out.println("Try again");
         }
         System.out.println("Hope this helped your mathmatical troubles!");
     }
