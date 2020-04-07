@@ -5,6 +5,7 @@ public class math {
         System.out.println("Hello");
         System.out.println("Calculator");
         System.out.println("New line");
+        System.out.println("marabalar");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter an Operator: ");
         String in = sc.next();
