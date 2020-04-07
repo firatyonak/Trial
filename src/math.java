@@ -24,7 +24,7 @@ public class math {
         } else if (oper == '/') {
             System.out.println(num1 * num2);
         } else {
-            
+            System.out.println("Try again");
         }
         System.out.println("Hope this helped your mathmatical troubles!");
     }
