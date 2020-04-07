@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class math {
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Calculator");
+        System.out.println("New line");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter an Operator: ");
         String in = sc.next();
